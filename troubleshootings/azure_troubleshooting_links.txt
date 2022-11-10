@@ -1,0 +1,5 @@
+AZURE - COVERAGE EXCLUSIONS
+https://github.com/coverlet-coverage/coverlet/issues/938
+
+AZURE - COVERAGE EXCLUSIONS
+https://stackoverflow.com/questions/60083817/ignoring-specific-files-folders-with-sonar-exclusions
